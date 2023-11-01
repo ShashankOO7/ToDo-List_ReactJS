@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Screenshots
 
 
-![App Screenshot]([https://github.com/ShashankOO7/ToDo-List_ReactJS/blob/main/src/Screenshots/ToDoList.jpeg]?raw=true)
+![App Screenshot](https://github.com/ShashankOO7/ToDo-List_ReactJS/blob/main/src/Screenshots/ToDoList.jpeg?raw=true)
 
 ## Available Scripts
 
