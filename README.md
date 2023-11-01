@@ -4,6 +4,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshots
+
+
+![App Screenshot]([https://github.com/ShashankOO7/ToDo-List_ReactJS/blob/main/src/Screenshots/ToDoList.jpeg]?raw=true)
+
 ## Available Scripts
 
 In the project directory, you can run:
